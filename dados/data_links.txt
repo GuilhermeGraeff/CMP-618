@@ -1,0 +1,13 @@
+Type		URL												Classes
+Blatter		https://sbcb.inf.ufrgs.br/data/cumida/Genes/Bladder/GSE31189/Bladder_GSE31189.csv		2
+Gastric		https://sbcb.inf.ufrgs.br/data/cumida/Genes/Gastric/GSE19826/Gastric_GSE19826.csv		2
+Prostate	https://sbcb.inf.ufrgs.br/data/cumida/Genes/Prostate/GSE6919_U95B/Prostate_GSE6919_U95B.csv	2
+Brain		https://sbcb.inf.ufrgs.br/data/cumida/Genes/Brain/GSE50161/Brain_GSE50161.csv			5
+Leukemia	https://sbcb.inf.ufrgs.br/data/cumida/Genes/Leukemia/GSE28497/Leukemia_GSE28497.csv		7
+Renal		https://sbcb.inf.ufrgs.br/data/cumida/Genes/Renal/GSE53757/Renal_GSE53757.csv			2
+Breast		https://sbcb.inf.ufrgs.br/data/cumida/Genes/Breast/GSE70947/Breast_GSE70947.csv			2
+Liver		https://sbcb.inf.ufrgs.br/data/cumida/Genes/Liver/GSE14520_U133A/Liver_GSE14520_U133A.csv	2
+Throat		https://sbcb.inf.ufrgs.br/data/cumida/Genes/Throat/GSE42743/Throat_GSE42743.csv			2
+Colorectal	https://sbcb.inf.ufrgs.br/data/cumida/Genes/Colorectal/GSE44076/Colorectal_GSE44076.csv		2
+Lung		https://sbcb.inf.ufrgs.br/data/cumida/Genes/Lung/GSE19804/Lung_GSE19804.csv			2
+Ovary		https://sbcb.inf.ufrgs.br/data/cumida/Genes/Ovary/GSE6008/Ovary_GSE6008.csv			4
