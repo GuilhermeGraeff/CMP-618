@@ -1,2 +1,2 @@
-# dados/csv/*:
+dados/csv/*
 !dados/csv/.gitignore
