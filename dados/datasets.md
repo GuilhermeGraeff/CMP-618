@@ -1,5 +1,5 @@
 ## Importante
-Precisa baixar os arquivos manualmente pq o GITHUB não sincroniza arquivos grandes.
+Precisa baixar os arquivos manualmente pq o GITHUB não sincroniza arquivos grandes (apenas com Git LFS).
 
 Bladder_GSE31189.csv     
 Gastric_GSE19826.csv      
